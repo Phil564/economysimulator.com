@@ -1,4 +1,6 @@
 IT IS A VERY BAD IDEA TO USE THIS SOURCE DUE TO IT'S BAD GAMESERVER MANAGEMENT. YOU HAVE BEEN WARNED.
+
+Original source (from economy-simulator.com, not economysimulator.com): https://mega.nz/file/qWoB0YjT#4Gb2Wn0kBk0_2RiGIqv4ayD_IyzvzqWeookFa12dpwQ
 --------------------------------------------
 
 This is the source code as of December 15, 2022. Some parts have been removed due to them being irrelevant to most people (e.g. a deployment program). Although it's easy to get the basics up and running, you will probably have to make many changes for it to be completely functional.
